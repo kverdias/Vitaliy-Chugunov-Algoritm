@@ -9,5 +9,5 @@
 
 Хабр: https://freelance.habr.com/freelancers/Kuzmin_228
 
-Отличия Windows и Red OS
+Отличия Windows и Red OS:
 https://docs.google.com/document/d/1AVVCD3OnLPIrdt3dDmFvrPqtUaEa0fAH29vRu3IZc8w/edit
