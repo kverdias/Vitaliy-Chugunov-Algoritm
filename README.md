@@ -12,4 +12,5 @@
 Отличия Windows и Red OS:
 https://docs.google.com/document/d/1AVVCD3OnLPIrdt3dDmFvrPqtUaEa0fAH29vRu3IZc8w/edit
 
-Сайт:
+WordPress:
+https://kuzmin23.wordpress.com
