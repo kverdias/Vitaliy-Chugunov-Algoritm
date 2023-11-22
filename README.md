@@ -14,3 +14,5 @@ https://docs.google.com/document/d/1AVVCD3OnLPIrdt3dDmFvrPqtUaEa0fAH29vRu3IZc8w/
 
 WordPress:
 https://kuzmin23.wordpress.com
+
+Документы: https://drive.google.com/drive/folders/1RG4PntkN1jQGGGsKytBcJfQNYsuv4ITd
