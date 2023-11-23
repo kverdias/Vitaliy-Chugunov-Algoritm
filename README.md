@@ -16,3 +16,6 @@ WordPress:
 https://kuzmin23.wordpress.com
 
 Документы: https://drive.google.com/drive/folders/1RG4PntkN1jQGGGsKytBcJfQNYsuv4ITd
+
+Replit:
+https://replit.com/@pp842604/Work-1-2-3#main.py
