@@ -19,3 +19,6 @@ https://kuzmin23.wordpress.com
 
 Replit:
 https://replit.com/@pp842604/Work-1-2-3#main.py
+
+Bot: @Krutoi1999bot
+
