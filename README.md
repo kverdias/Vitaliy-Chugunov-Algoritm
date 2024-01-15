@@ -1,6 +1,10 @@
 # Vitaliy-Chugunov-Algoritm
 ...:::$💰💵💸$:::....
 
+Конкурсы: 
+
+https://drive.google.com/drive/folders/1-4Nd0q4xQdsIvePJN8r_PgLY_JfAXhFo
+
 Работы
 
 Конспект: https://docs.google.com/document/d/12oDa9P9No0iBye4tXIrrOGPRnWRbGrkMnAYMSUhi8dg/edit
