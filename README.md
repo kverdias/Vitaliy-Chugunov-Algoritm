@@ -1,9 +1,15 @@
 # Vitaliy-Chugunov-Algoritm
 ...:::$💰💵💸$:::....
 
+4 семестр
+
 Конкурсы: 
 
 https://drive.google.com/drive/folders/1-4Nd0q4xQdsIvePJN8r_PgLY_JfAXhFo
+
+Численные методы папка 
+
+https://drive.google.com/drive/folders/1-6DXgSi0cGetOkDLMsfY74UHSeMnph2z
 
 Работы
 
