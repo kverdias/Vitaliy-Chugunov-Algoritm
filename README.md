@@ -32,3 +32,6 @@ https://replit.com/@pp842604 https://docs.google.com/document/d/1naWSw09SOrFsspv
 
 Bot: @Krutoi1999bot
 
+Сводка численные:
+https://docs.google.com/spreadsheets/d/1mNI0AoMYY9DNBAquEvP6YmhubweevOrdOYXuxUF_4-c/edit#gid=2038050422
+
